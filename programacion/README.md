@@ -1,3 +1,3 @@
 # programacion-1
-El curso de programación es un nivel donde vemos los conceptos basicos de programacion en phyton y demas 
+El curso de programación es un nivel donde vemos los conceptos basicos de programacion en python y demas 
 
